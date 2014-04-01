@@ -1,4 +1,4 @@
 ShellBT
 =======
 
-A simple example that lists nearby Bluetooth devices.
+A simple Android app that lists nearby Bluetooth devices.
